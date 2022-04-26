@@ -6,6 +6,7 @@
 - [ ] Actualizar estructura del Repo
 - [ ] Actualizar Documento de Configuracion de Software
 - [ ] Subir Practico 5
-- [ ] Subir Practico 6
+- [ ] Subir Practico 7
+- [ ] Subir Practico 8
 - [ ] Subir Practico 3
 - [ ] Subir Practico 2
