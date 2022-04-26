@@ -1,0 +1,28 @@
+// Pegar este código en www.yuml.me
+//Interfaz - Controlador
+
+[<<interfaz>>; InterfazPedidoLoQueSea|- txtDescripcionPedido: TextBox; - fotoJPG: image;- domicilioComercio: TextBox; -componenteGoogleMapsComercio: GoogleMapsService; - domicilioEntrega: TextBox; - pantallaTotalApagar: pantallaTotalComponent; - formaDePago: ComboBox; - tipoRecepcion: ComboBox; - fechaHoraRecepcion: ComboFechaHora|+ opcionPedirLoQueSea() ]-.->[<<controlador>>;GestorPedidoLoQueSea]-.-> [<<interfaz>>; InterfazPedidoLoQueSea]
+
+//Clases
+[Pedido|- descripcion: string; - tipoEntrega: string; - fechaHoraEntrega: datetime; - fechaHoraCreado: datetime]
+[Ciudad| - nombre: string]
+[Facturacion| -total: string]
+[FormaPago]
+[TarjetaCliente| - nombreTitular: string; - apellidoTitular: string; - cvc: string; - numeroTarjeta: string]
+[<<controlador>>;GestorPedidoLoQueSea|- ciudadesDisponibles: CiudadArray; - datosDomicilioComercio: string ; - datosDomicilioEntrega: string;  - formasPagoHabilitadas: FormaPago; - formaPagoSeleccionada: FormaPago; - tipoEntrega: string; - fechaHoraEntrega: datetime; - fechaHoraActual: datetime|+ pedidoLoQueSea(); +buscarCiudadesDisponibles() ; +calcularPrecioTotal(); +buscarFormasDePago()  ;+tomarDatos() ]
+
+// Relaciones
+[<<controlador>>;GestorPedidoLoQueSea]-.->[Ciudad]
+
+[<<controlador>>;GestorPedidoLoQueSea]-.->[Pedido]
+
+[Domicilio| calle; numero;ciudad; referencia]-.-[note: la referencia es opcional
+El formato de la fecha es DD/MM/AAAA]
+
+[Pedido]domicilioComercio-0..1>[Domicilio]-1>[Ciudad]
+[Pedido]domicilioEntrega-0..1>[Domicilio]
+[Pedido]facturacion-0..1>[Facturacion]formaPago-1>[FormaPago]
+
+[Facturacion]tarjetaCreditoDebito-0..1>[TarjetaCliente]
+
+[<<controlador>>;GestorPedidoLoQueSea]-.->[FormaPago|- nombre: string]-.-[note: Por Ahora solo Efectivo o Tarjeta VISA (Formato MM/AAAA y pedir CVC)]
