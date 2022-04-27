@@ -14,3 +14,6 @@
 - [ ] Subir Practico 8
 - [ ] Subir Practico 3
 - [ ] Subir Practico 2
+- [ ] Tagear Practicos 2,3 y 4
+- [ ] Tagear Practico 7
+- [ ] Tagear Practico 6 
