@@ -10,7 +10,7 @@
 - [x] Actualizar estructura del Repo
 - [x] Actualizar Documento de Configuracion de Software
 - [x] Subir Practico 7
-- [ ] Subir Practico 8
+- [x] Subir Practico 8
 - [x] Subir Practico 3
 - [x] Subir Practico 2
 - [x] Tagear Practicos 2,3,4 y 6
