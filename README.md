@@ -15,4 +15,8 @@
 - [x] Subir Practico 2
 - [x] Tagear Practicos 2,3,4 y 6
 - [x] Tagear Practico 7
+- [ ] Tagear Practico 8 cuando este corregido
+- [ ] Subir Practico 9
+- [ ] Subir TP conceptual 1
+- [ ] Subir Presentaciones de Clase sobre Testing
 
