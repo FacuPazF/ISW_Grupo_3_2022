@@ -19,4 +19,6 @@
 - [ ] Subir Practico 9
 - [ ] Subir TP conceptual 1
 - [ ] Subir Presentaciones de Clase sobre Testing
+- [ ] Corregir y Subir TP 4 corregido
+- [ ] Corregir y Subir TP 8 corregido
 
