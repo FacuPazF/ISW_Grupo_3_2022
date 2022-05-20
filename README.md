@@ -20,9 +20,8 @@
 - [x] Subir Presentaciones de Clase sobre Testing
 - [x] Corregir y Subir TP 4 corregido
 - [x] Subir link de acceso a la Bibliografia
-- [ ] Corregir y Subir TP 8 corregido
--
-- [ ] Tagear Practico 8 cuando este corregido
+- [x] Corregir y Subir TP 8 corregido
+- [x] Tagear Practico 8 cuando este corregido
 - [ ] Subir Practico 9
 
 
