@@ -17,8 +17,8 @@
 - [x] Tagear Practico 7
 - [x] Subir TP conceptual 1
 - [x] Taggear TP Conceptual 1
-- [ ] Subir Presentaciones de Clase sobre Testing
-- [ ] Corregir y Subir TP 4 corregido
+- [x] Subir Presentaciones de Clase sobre Testing
+- [x] Corregir y Subir TP 4 corregido
 - [ ] Corregir y Subir TP 8 corregido
 - [ ] Subir link de acceso a la Bibliografia
 - [ ] Tagear Practico 8 cuando este corregido
