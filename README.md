@@ -19,8 +19,9 @@
 - [x] Taggear TP Conceptual 1
 - [x] Subir Presentaciones de Clase sobre Testing
 - [x] Corregir y Subir TP 4 corregido
+- [x] Subir link de acceso a la Bibliografia
 - [ ] Corregir y Subir TP 8 corregido
-- [ ] Subir link de acceso a la Bibliografia
+-
 - [ ] Tagear Practico 8 cuando este corregido
 - [ ] Subir Practico 9
 
