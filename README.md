@@ -23,6 +23,8 @@
 - [x] Corregir y Subir TP 8 corregido
 - [x] Tagear Practico 8 cuando este corregido
 - [ ] Subir Practico 9
+- [ ] Subir Practico 10
+- [ ] Subir Practico 11
 
 
  
