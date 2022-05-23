@@ -25,6 +25,8 @@
 - [ ] Subir Practico 9
 - [ ] Subir Practico 10
 - [ ] Subir Practico 11
+- [ ] Subir Practico 12
+- [ ] Taggear Practico 12 cuando esté corregido
 
 
  
