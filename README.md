@@ -26,6 +26,7 @@
 - [ ] Subir Practico 10
 - [ ] Subir Practico 11
 - [ ] Subir Practico 12
+- [ ] Subir presentaciones de Clase hasta Métricas de Sw, CMMI y Auditorias
 - [ ] Taggear Practico 12 cuando esté corregido
 
 
