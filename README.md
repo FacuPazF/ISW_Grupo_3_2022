@@ -1,4 +1,14 @@
-# ISW_Grupo_3_2022
+
+# Presentacion
+## Universidad Tecnológica Nacional - Facultad Regional Córdoba
+### Ingeniería en Sistemas de Información - Cátedra de Ingeniería de Software
+** Curso: 4K4 **
+Integrantes: 
+- Antonellini Juan Manuel
+- Paz Fessia Facundo
+- Demasi Pablo Sebastián
+- Valle Matías
+- Caminos Julieta
 
 # Documento de Configuración de Software: 
 - [Documento de Configuracion de Software - Practico 4](https://github.com/FacuPazF/ISW_Grupo_3_2022/blob/main/Trabajos_practicos/Practico_4-Herramientas_de_SCM/ISW_4K4_2022_Grupo_3_Practico_4_GestionDeItemsDeConfiguracion.pdf)
@@ -22,8 +32,8 @@
 - [x] Subir link de acceso a la Bibliografia
 - [x] Corregir y Subir TP 8 corregido
 - [x] Tagear Practico 8 cuando este corregido
-- [ ] Subir Practico 9
-- [ ] Subir Practico 10
+- [x] Subir Practico 9
+- [x] Subir Practico 10
 - [x] Subir Practico 11
 - [x] Subir Practico 12
 - [ ] Subir presentaciones de Clase hasta Métricas de Sw, CMMI y Auditorias
