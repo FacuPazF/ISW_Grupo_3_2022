@@ -1,8 +1,8 @@
 
-# Presentacion
+# Presentación
 ## Universidad Tecnológica Nacional - Facultad Regional Córdoba
 ### Ingeniería en Sistemas de Información - Cátedra de Ingeniería de Software
-** Curso: 4K4 **
+**Curso: 4K4 - Grupo 3**
 Integrantes: 
 - Antonellini Juan Manuel
 - Paz Fessia Facundo
@@ -36,8 +36,11 @@ Integrantes:
 - [x] Subir Practico 10
 - [x] Subir Practico 11
 - [x] Subir Practico 12
-- [ ] Subir presentaciones de Clase hasta Métricas de Sw, CMMI y Auditorias
-- [ ] Taggear Practico 12 cuando esté corregido
+- [x] Subir presentaciones de Clase hasta Métricas de Sw, CMMI y Auditorias
+- [x] Taggear Practico 12 cuando esté corregido
+- [ ] Subir las presentaciones de Revisiones Técnivas y Retrospectivas
+- [ ] Subir Trabajo conceptual 2 - Poster Científico
+- [ ] Taggear TC2 corregido
 
 
  
