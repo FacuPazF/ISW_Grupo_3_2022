@@ -73,4 +73,11 @@ Los clientes y el developer team deben trabajar juntos en todo momento Idealment
 
 ## Cómo es Testing Ágil diferente?
 En el testing tradicional el foco está en asegurarse de que todos los requerimientos especificados se entreguen en el producto final. Si no está todo terminado para la fecha de entrega progrmada, entonces se pospone el release. Los testers estudian los requerimientos para escribir sus planes de testing y esperan a que les sea entregado el trabajo. El testing en este enfoque se suele meter hacia el final, no pudiendo dedicarle tanto tiempo como a la escritura de código.    
-Los equipos ágiles, trabajan de cerca con el negocio para tener un entendimiento detallado de los requerimientos. Están enfocados al valor que pueden entregar. Los testers no esperan a que les llegue el trabajo sino que tratan de ayudar a lo largo de todo el ciclo de desarrollo. En este enfoque el testing se hace a penas se termina un incremento y siempre se testea porque sino una US no está completa.    
+Los equipos ágiles, trabajan de cerca con el negocio para tener un entendimiento detallado de los requerimientos. Están enfocados al valor que pueden entregar. Los testers no esperan a que les llegue el trabajo sino que tratan de ayudar a lo largo de todo el ciclo de desarrollo. En este enfoque el testing se hace cuando se termina un incremento siempre se testea lo necesario porque sino la US no está completa.    
+El testing ágil debe ser adaptativo conforme a las necesidades del equipo.
+
+## Enfoque de Equipo como una Unidad
+Este la diferencia principal con el enfoque tradicional. No son solo los testers los que se preocupan por la calidad, sino todo el equipo en conjunto. Son los tests los que guían el código. Entonces, son todos los miembros los que piensan en diseñar código para su testeo. Siendo que el equipo es multifuncional, se aportan una gran variedad de puntos de vistas para el testing lo que aporta mejores tests y mejor cobertura.
+
+## Valores del Manifiesto ágil que se relacionan con el testing agil
+(Del resumen del capítulo 1) Se relaciona con los valores de, énfasis en individuos e interacciones, software funcionando, colaboración con el cliente, y responder al cambio.
