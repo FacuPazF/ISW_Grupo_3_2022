@@ -39,8 +39,8 @@ Integrantes:
 - [x] Taggear Practico 12 cuando esté corregido
 - [x] Subir Practico 13
 - [x] Taggear Practico 13
-- [ ] Subir y Taggear Practico 14
-- [x] Subir las presentaciones de Revisiones Técnivas y Retrospectivas
+- [x] Subir y Taggear Practico 14
+- [x] Subir las presentaciones de Revisiones Técnicas y Retrospectivas
 - [ ] Subir Trabajo conceptual 2 - Poster Científico
 - [ ] Taggear TC2 corregido
 
