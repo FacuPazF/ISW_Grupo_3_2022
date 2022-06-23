@@ -4,7 +4,6 @@
 ### Ingeniería en Sistemas de Información - Cátedra de Ingeniería de Software
 **Curso: 4K4 - Grupo 3**
 Integrantes: 
-- Antonellini Juan Manuel
 - Paz Fessia Facundo
 - Demasi Pablo Sebastián
 - Valle Matías
