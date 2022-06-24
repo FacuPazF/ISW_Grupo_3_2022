@@ -1,0 +1,1 @@
+![Imagen del Poster Ciéntifico sobre el Manifiesto del Testing Ágil](https://github.com/FacuPazF/ISW_Grupo_3_2022/blob/main/Trabajos_teoricos/Trabajo_conceptual_2-Poster_cient%C3%ADfico/ISW_4K4_2022_Grupo_3_Trabajo_Conceptual_2_PosterCientifico-TestingAgil.png?raw=true)
