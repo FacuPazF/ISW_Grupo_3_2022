@@ -42,7 +42,7 @@ Integrantes:
 - [x] Subir y Taggear Practico 14
 - [x] Subir las presentaciones de Revisiones Técnicas y Retrospectivas
 - [x] Subir Trabajo conceptual 2 - Poster Científico
-- [ ] Taggear TC2 corregido
+- [x] Taggear TC2 corregido
 
 
  
